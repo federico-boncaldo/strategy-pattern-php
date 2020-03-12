@@ -1,6 +1,6 @@
 # Strategy Design Pattern in PHP
 
-The code of this example is based on the [Laracasts](https://laracasts.com/) lesson on the [Strategy Pattern](https://laracasts.com/series/design-patterns-in-php/episodes/5).
+The code of this example is based on the [Laracasts](https://laracasts.com/) lesson on the [Strategy Pattern](https://laracasts.com/series/design-patterns-in-php/episodes/4).
 
 The pattern is used to encapsulate a family of algorithms within an interface and then use that interface when that family of functionality is required. Through polymorphism, we can use different implementations of the same interface according to our needs.
 
